@@ -1,1 +1,1 @@
-# repo of random code
+# j-random
